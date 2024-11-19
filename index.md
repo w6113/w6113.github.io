@@ -6,7 +6,7 @@ layout: index
   <h4 class="alert-heading">Registering for this course</h4>
   <p>If you are interested in taking this course, please fill out 
   <a href="https://forms.gle/Z9RufMdoA1YSfa5HA" style="color:#045321; text-decoration:underline;"><b>THIS SHORT FORM</b></a>.
-  Due to the small class size, we will use the answers to balance student backgrounds and expertise.
+  Due to the small class size, we will use the answers to balance student backgrounds and expertise.  To ensure commitment, we are not currently accepting audits.  
   </p>
 </div>
 
