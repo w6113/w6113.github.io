@@ -84,7 +84,7 @@ Prereqs:
 {% for r in site.data.schedule %}
   {% assign idx = idx | plus: 1  %}
 
-  <tr style="background-color: {{r.color}}; ">
+  <tr class="colored">
     <td class="date">C{{idx}}: {{r.date}}</td>
     <td class="slug">
       {% if r.link %}
