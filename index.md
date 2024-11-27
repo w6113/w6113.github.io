@@ -59,70 +59,140 @@ Prereqs:
    Final Presentation <small>10%</small>,
    Paper <small>30%</small>
 
-#### Recent Announcements
+## Recent Announcements
 
 
-#### Tentative Schedule
+## Tentative Schedule
 
+#### What We Want
+
+* 1/21	Introduction
+* 1/23	History of Agents
+* 1/28	Use cases
+* 1/30	Use cases
+
+#### Where We Are
+	
+* 2/4	Agentic Models
+* 2/6	Agent Frameworks
+* 2/11	Serving
+* 2/13	Human-agent Interaction
+
+#### What Does It Take?
+
+Models
+	
+* 2/18	Model design
+* 2/20	Model design
+* 2/25	Training and Simulation
+* 2/27	Planning
+* 3/4	Assessing
+* 3/6	Monitoring
+
+Data
+
+* 3/11	Branching
+* 3/13	Lineage
+* 3/25	Lineage 
+
+Systems 
+
+* 3/27	Scheduling
+* 4/1	RAG
+* 4/3	Hardware
+
+Human Agent Interaction
+
+* 4/8	What is the role of interfaces?
+* 4/10	Hand-offs and context
+
+Task Orchestration
+
+* 4/15	Scheduling
+* 4/17	Incentives
+
+Security and Privacy
+
+* 4/22	Sybil attacks
+* 4/24	Privacy
+
+#### What You Did
+
+* 4/29	Presentations
+* 5/1	Presentations
+
+
+<!--
 <style>
 .presenter { }
 </style>
 
-<table class="table table-striped schedule">
+<table class="table  schedule">
   <thead>
   <tr>
-    <!--<th class="idx" style="width: 3em; max-width:3em;"></th>-->
-    <th class="date" style="width: 15em; max-width: 15em;"> <p> <span>Date </span> </p> </th>
-    <th style="min-width: 15%;"> <p> <span>Topic </span> </p> </th>
+    <th class="date" style="width: 5em; max-width: 15em;"> <p> <span>Date </span> </p> </th>
+    <th style="min-width: 15%;"> <p> <span>Tues </span> </p> </th>
+    <th style="min-width: 15%;"> <p> <span>Thurs </span> </p> </th>
     <th style="width: 10%"> <p> <span>Notes </span> </p> </th>
-    <!--<th style="width: 15%;"> <p> <span>Assigned</span> </p> </th>
-    <th style="width: 15%;"> <p> <span>Due</span> </p> </th>-->
   </tr>
   </thead>
 {% assign idx = 0 %}
 
 {% for r in site.data.schedule %}
-  {% assign idx = idx | plus: 1  %}
-
-  <tr class="colored">
-    <td class="date">C{{idx}}: {{r.date}}</td>
-    <td class="slug">
-      {% if r.link %}
-        <a href="./papers#{{r.link}}"><b>{{r.slug}}</b></a>
-      {% else %}
-        <b>{{r.slug}}</b>
-      {% endif %}
-
-      {% if r.papers %}
-      <ul>
-      {% for p in r.papers %}
-        <li><a href="{{p.url}}">{{p.title}}</a></li> 
-      {% endfor %}
-      </ul>
-      {% endif %}
-
-      {% if r.presenter %}
-        <br/>
-        <span class='presenter'>Presenter: {{r.presenter}}</span>
-      {% endif %}
-
-      {% if r.misc %}
-      <div> {{r.misc|raw}}</div>
-      {% endif %}
-
+  {% if r.block %}
+    <tr class="colored" style="background: #eee">
+    <td colspan=4  style="text-align: center; font-size: bigger;" >
+    <b style="font-size: 15pt;">{{r.block}}</b>
     </td>
-    <td class="notes">
-      {% if r.notes %}
-        {{r.notes|raw}}
-      {% endif %}
-    </td>
-    <!--
-    <td>{{r.assigned | safe}}</td>
-    <td>{{r.due | safe}}</td>
-    -->
-  </tr>
+    </tr>
+
+  {% else %}
+      {% assign idx = idx | plus: 1  %}
+
+      <tr class="colored" style="background: {{r.color}}">
+        <td class="date">W{{idx}}: {{r.topic}}</td>
+        <td class="tues">
+          <div class="date">{{r.date1}}</div>
+          {% if r.link1 %}
+            <a href="./papers#{{r.link}}"><b>{{r.slug1}}</b></a>
+          {% else %}
+            <b>{{r.slug1}}</b>
+          {% endif %}
+
+          {% if r.presenter1 %}
+            <br/>
+            <span class='presenter'>Presenter: {{r.presenter1}}</span>
+          {% endif %}
+        </td>
+
+        <td class="thurs">
+          <div class="date">{{r.date2}}</div>
+          {% if r.link2 %}
+            <a href="./papers#{{r.link}}"><b>{{r.slug2}}</b></a>
+          {% else %}
+            <b>{{r.slug2}}</b>
+          {% endif %}
+
+          {% if r.presenter2 %}
+            <br/>
+            <span class='presenter'>Presenter: {{r.presenter2}}</span>
+          {% endif %}
+
+        </td>
+        <td class="notes">
+          {% if r.notes %}
+            {{r.notes|raw}}
+          {% endif %}
+
+          {% if r.misc %}
+          <div> {{r.misc|raw}}</div>
+          {% endif %}
+        </td>
+      </tr>
+  {% endif %}
 {% endfor %}
 
 </table>
+-->
 
 
