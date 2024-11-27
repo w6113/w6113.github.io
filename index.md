@@ -13,7 +13,7 @@ layout: index
 
 
 
-#### Overview
+## Overview
 
 
 LLMs have opened new possibilities of automated agents that plan and complete tasks on the user’s behalf.  Such agents have the potential to usher in a new industrial revolution by automating organizational processes.   However, agents are currently limited to soft-edge tasks that have large tolerances for error, and are too unreliable for hard-edge tasks, like in healthcare or enterprises, where accuracy and reliability are paramount.  In short, what does it take for agents to be used in enterprises?
@@ -29,35 +29,15 @@ Broad questions include
 * What are the theoretical limits of what agents can do?
 * At scale, how will the use of agents affect markets, incentives, and the structure of organizations?
 
-Due to the speculative nature of the course, students are expected to co-investigate the problems alongside the instructors.   
-
-Prereqs:
-
-* Participants are expected to have exposure to LLM-agents, and expertise in another 
-* This is by default a PhD-level course due to its research and forward looking nature
-* This seminar is open to undergraduates and MS students with demonstrated abilities to critically read research papers and ask good questions.
 
 
+#### Class Structure
 
-#### Information 
+* There will be assigned readings for each week
+* Classes will be a mix of discussion about the papers, speculating about new problems, and external speakers
+* Due to the speculative nature of the course, students are expected to co-investigate the problems alongside the instructors.   
 
-* Class: Tu/Th 10:10-11:25AM, Loc TBA
-* Instructors: 
-  * [Eugene Wu](http://www.eugenewu.net)
-  * [Kostis Kaffes](https://www.cs.columbia.edu/~kkaffes/index.html)
-* [Syllabus & FAQ](./syllabus),
-[Slack](https://w6113-s25.slack.com),
-[Project](./projects), 
-[Papers](./papers)
-* Prereqs: W4111 Intro to DB (required), W4112 DB Implementations (recommended).  Ugrads OK; see Prof Wu
 
-#### Grading 
-
-* Discussion Prep 30%
-* Class participation 30%
-* [Project](./projects) 40%:
-   Final Presentation <small>10%</small>,
-   Paper <small>30%</small>
 
 ## Recent Announcements
 
