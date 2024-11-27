@@ -1,14 +1,18 @@
 #### Information 
 
 
-* Class: Tu/Th 10:10-11:25AM, Loc TBA
-* Instructors: 
-  * [Eugene Wu](http://www.eugenewu.net)
-  * [Kostis Kaffes](https://www.cs.columbia.edu/~kkaffes/index.html)
-* [Syllabus & FAQ](./syllabus),
-[Slack](https://w6113-s25.slack.com),
-[Project](./projects), 
-[Papers](./papers)
+* Tu/Th   
+  10:10-11:25AM
+  Loc TBA
+* [Syllabus & FAQ](./syllabus)
+* [Slack](https://w6113-s25.slack.com)
+* [Project](./projects)
+
+
+#### Staff
+
+* [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>
+* [Kostis Kaffes](https://www.cs.columbia.edu/~kkaffes/index.html)  <small>Instructor</small>
 
 
 #### Prereqs
