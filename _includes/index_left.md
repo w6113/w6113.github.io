@@ -2,8 +2,8 @@
 
 
 * Tu/Th   
-  10:10-11:25AM
-  Loc TBA
+  10:10-11:25AM   
+  829 Mudd
 * [Syllabus & FAQ](./syllabus)
 * [Slack](https://w6113-s25.slack.com)
 * [Project](./projects)
