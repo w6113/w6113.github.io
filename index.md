@@ -44,63 +44,49 @@ Broad questions include
 
 ## Tentative Schedule
 
+
 #### What We Want
 
-* 1/21	Introduction
-* 1/23	History of Agents
-* 1/28	Use cases
-* 1/30	Use cases
+- 1/21: Introduction & a quick history of agents - *Eugene & Kostis*
+- 1/23: Use case: Bureaucracy - *Jeffrey Schlegelmilch*
+- 1/28: Use case: TBA  
+- 1/30: Use case: Enterprise applications  
 
-#### Where We Are
-	
-* 2/4	Agentic Models
-* 2/6	Agent Frameworks
-* 2/11	Serving
-* 2/13	Human-agent Interaction
+#### WHERE WE ARE
+- 2/4: Agentic Models  
+- 2/6: Agent Benchmarks (workarena, swe-bench)  
+- 2/13: Agents in Systems Optimization - *Shreya Shankar*
+- 2/18: Agent Frameworks - *Phil Calçado*
+- 2/20: Simulation for embodied agents - *Yunzhu Li*
+- 2/25: RAG  
+- 2/27: Serving - *Kostis Kaffes*
 
-#### What Does It Take?
+#### WHAT WE WANT: RELIABILITY VIA SIMULATION
 
-Models
-	
-* 2/18	Model design
-* 2/20	Model design
-* 2/25	Training and Simulation
-* 2/27	Planning
-* 3/4	Assessing
-* 3/6	Monitoring
+- 3/4: Models: Simulation during Inference - *Xiao Yu*
+- 3/6: Models: Neurosymbolic training - *Baishakhi Ray*
+- 3/11: HAI: Hand-offs with humans and context - *Lydia Chilton*
+- 3/13: Systems: Branching and simulation  
+- 3/25: Systems: Long lived transactions  
+- 3/26: Systems: Lineage - *Eugene Wu*
+- 3/27: Systems: Data-flow Policies - *Eugene Wu*
 
-Data
+#### WHAT WE WANT: SAFEGUARDS AND USABILITY
 
-* 3/11	Branching
-* 3/13	Lineage
-* 3/25	Lineage 
+- 4/1: Monitoring  
+- 4/3: HAI: Schema and Process Induction  
+- 4/8: HAI: Evaluating agent outcomes  
+- 4/10: Systems: ML for systems configuration  
+- 4/15: Systems: Performance Hints  
+- 4/17: Systems: Scheduling/Orchestration  
+- 4/22: Summary: Agent-first systems  
+- 4/24: Buffer
 
-Systems 
-
-* 3/27	Scheduling
-* 4/1	RAG
-* 4/3	Hardware
-
-Human Agent Interaction
-
-* 4/8	What is the role of interfaces?
-* 4/10	Hand-offs and context
-
-Task Orchestration
-
-* 4/15	Scheduling
-* 4/17	Incentives
-
-Security and Privacy
-
-* 4/22	Sybil attacks
-* 4/24	Privacy
 
 #### What You Did
 
 * 4/29	Presentations
 * 5/1	Presentations
-
 
 <!--
 <style>
