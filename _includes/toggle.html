@@ -1,0 +1,11 @@
+
+<span style="font-size: smaller;" onclick="this.parentNode.nextElementSibling.classList.toggle('hidden')">Toggle Bio</span>
+<li class="hidden">
+  {{ include.content }}
+</li>
+
+<style>
+.hidden {
+  display: none;
+}
+</style>
