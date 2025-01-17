@@ -47,46 +47,52 @@ Broad questions include
 
 #### What We Want
 
-- 1/21: Introduction & a quick history of agents - *Eugene & Kostis*
-- 1/23: Use case: Bureaucracy - *Jeffrey Schlegelmilch*
-- 1/28: Use case: TBA  
-- 1/30: Use case: Enterprise applications  
+* 1/21:	Introduction & a quick history of agents	- Eugene & Kostis
+* 1/23:	Tutorial: Agents Overview - [Xiao Yu](https://jasonyux.com/), Columbia
+  * I am a second year Ph.D. student in Computer Science at Columbia University advised by Zhou Yu. Before joining the Ph.D. program, I was an undergrad also at Columbia University, majoring in Computer Science and minoring in Applied Physics. Currently I am interested in: 1) Reinforcement Learning + (V)LM Training, and 2) Planning Algorithms + (V)LM Agents. My recent works include developing search algorithms to improve (V)LM's performance on dialogue tasks such as persuasion and agentic tasks such as using a web browser or a virtual machine; and methods to train (V)LMs without extensive human labeling efforts.
+  * Readings
+    * [OSWorld](https://arxiv.org/abs/2404.07972)
+    * [SWE-agent](https://arxiv.org/abs/2405.15793)
+* 1/28:	Tutorial: Agent Planning - [Xiao Yu](https://jasonyux.com/), Columbia
+  * Readings
+    * [AlphaGo](https://www.nature.com/articles/nature24270)
+    * [Reflective-MCTS](https://arxiv.org/abs/2410.02052)
 
 #### WHERE WE ARE
-- 2/4: Agentic Models  
-- 2/6: Agent Benchmarks (workarena, swe-bench)  
-- 2/13: Agents in Systems Optimization - *Shreya Shankar*
-- 2/18: Agent Frameworks - *Phil Calçado*
-- 2/20: Simulation for embodied agents - *Yunzhu Li*
-- 2/25: RAG  
-- 2/27: Serving - *Kostis Kaffes*
+
+* 1/30: 	Now: SWEBench - [John Yang](https://john-b-yang.github.io/), Stanford
+*  2/4: 	Now: Agents at Google -	[Fatma Ozcan](https://techsysinfra.google/research/srg-staff/fatma-ozcan/), Google Research
+*  2/6: 	Use Case: Bureaucracy	[Jeffrey Schlegelmilch](https://ncdp.columbia.edu/about-us/faculty-and-staff/), [National Center for Disaster Preparedness](https://ncdp.columbia.edu/)
+* 2/13: 	Use Case: Agents in Systems Optimization - [Shreya Shankar](https://www.sh-reya.com/) PhD, UC Berkeley
+* 2/18: 	Now: Agent Frameworks - [Phil Calçado](https://philcalcado.com/), [Outropy](https://outropy.ai/)
+* 2/20: 	Now: Simulation for embodied agents - [Yunzhu](yunzhuli.github.io)
+* 2/25: 	Now: Servings - [Kostis Kaffes](https://www.cs.columbia.edu/~kkaffes/index.html)
+* 2/27: 	Use Case: TBA
 
 #### WHAT WE WANT: RELIABILITY VIA SIMULATION
 
-- 3/4: Models: Simulation during Inference - *Xiao Yu*
-- 3/6: Models: Neurosymbolic training - *Baishakhi Ray*
-- 3/11: HAI: Hand-offs with humans and context - *Lydia Chilton*
-- 3/13: Systems: Branching and simulation  
-- 3/25: Systems: Long lived transactions  
-- 3/26: Systems: Lineage - *Eugene Wu*
-- 3/27: Systems: Data-flow Policies - *Eugene Wu*
+*  3/4: TBA		
+*  3/6:	Models: Neurosymbolic training	- [Baishakhi Ray](rayb.info), Columbia
+* 3/11:	HAI: Hand-offs with humans and context	- [Lydia Chilton](https://www.cs.columbia.edu/~chilton/chilton.html), Columbia
+* 3/13:	Use Case: TBA
+* 3/25:	Models: Planning - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
 
 #### WHAT WE WANT: SAFEGUARDS AND USABILITY
 
-- 4/1: Monitoring  
-- 4/3: HAI: Schema and Process Induction  
-- 4/8: HAI: Evaluating agent outcomes  
-- 4/10: Systems: ML for systems configuration  
-- 4/15: Systems: Performance Hints  
-- 4/17: Systems: Scheduling/Orchestration  
-- 4/22: Summary: Agent-first systems  
-- 4/24: Buffer
-
+* 3/27:	Systems: Lineage and Data-flow policies	- [Eugene Wu](https://www.eugenewu.net), Columbia
+*  4/1:	Use Case: Coding (AutoCodeRover) - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS
+*  4/3:	HAI: Evaluating agent outcomes - TBA	
+*  4/8:	HAI: Schema and Process Induction - TBA
+* 4/10:	Systems: ML for systems configuration - TBA
+* 4/15:	Systems: Performance Hints - TBA
+* 4/17:	Models: Long context LLM - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago
+* 4/22:	Systems: Monitoring - TBA
+* 4/24:	TBA
 
 #### What You Did
 
-* 4/29	Presentations
-* 5/1	Presentations
+* 4/29:	Presentations
+*  5/1:	Presentations
 
 <!--
 <style>
