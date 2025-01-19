@@ -4,7 +4,7 @@ body {
   margin: 0px;
   color: black;
   background-color: white;
-  font: normal normal 17px/24px Roboto, Arial, sans-serif;
+  font: normal normal 17px/24px Arial, sans-serif;
   width: 99%;
   padding: 0px;
 }
@@ -110,7 +110,7 @@ h3 {
 }
 
 h4 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 	padding: 0.1em;
 	margin-top: 0.8em;
 	font-size: 20px;
@@ -150,7 +150,7 @@ ul ul {
 }
 
 .deco {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   letter-spacing: 1.2ex;
 }
 
