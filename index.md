@@ -49,13 +49,13 @@ Broad questions include
 
 <span class="date">1/21</span>:	<span class="topic">Introduction & a quick history of agents</span>	- Eugene & Kostis
 
-<span class="date">1/23</span>:	<span class="topic">Tutorial: Agents Overview</span> - [Xiao Yu](https://jasonyux.com/), Columbia {% include toggle.html content="I am a second year Ph.D. student in Computer Science at Columbia University advised by Zhou Yu. Before joining the Ph.D. program, I was an undergrad also at Columbia University, majoring in Computer Science and minoring in Applied Physics. Currently I am interested in: 1) Reinforcement Learning + (V)LM Training, and 2) Planning Algorithms + (V)LM Agents. My recent works include developing search algorithms to improve (V)LM's performance on dialogue tasks such as persuasion and agentic tasks such as using a web browser or a virtual machine; and methods to train (V)LMs without extensive human labeling efforts." %}
+<span class="date">1/23</span>:	<span class="topic"><a href="https://drive.google.com/file/d/1308CxPBdqhrurz4zeGN5Uw_Xp6BzQaJ1/view?usp=sharing">Tutorial: Agents Overview</a></span> - [Xiao Yu](https://jasonyux.com/), Columbia {% include toggle.html content="I am a second year Ph.D. student in Computer Science at Columbia University advised by Zhou Yu. Before joining the Ph.D. program, I was an undergrad also at Columbia University, majoring in Computer Science and minoring in Applied Physics. Currently I am interested in: 1) Reinforcement Learning + (V)LM Training, and 2) Planning Algorithms + (V)LM Agents. My recent works include developing search algorithms to improve (V)LM's performance on dialogue tasks such as persuasion and agentic tasks such as using a web browser or a virtual machine; and methods to train (V)LMs without extensive human labeling efforts." %}
 
 * Readings
     * [OSWorld](https://arxiv.org/abs/2404.07972)
     * [SWE-agent](https://arxiv.org/abs/2405.15793)
 
-<span class="date">1/28</span>:	<span class="topic">Tutorial: Agent Planning</span> - [Xiao Yu](https://jasonyux.com/), Columbia
+<span class="date">1/28</span>:	<span class="topic"><a href="https://drive.google.com/file/d/1TUZf2GV3zPZA8sLKSSpkp2nd5OT8SSpt/view?usp=sharing">Tutorial: Agent Planning</a></span> - [Xiao Yu](https://jasonyux.com/), Columbia
 
 * Readings
     * [AlphaGo](https://www.nature.com/articles/nature24270)
