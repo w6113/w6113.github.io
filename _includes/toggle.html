@@ -1,17 +1,19 @@
 
-<a  href="javascript:void(0);" class="toggler link-secondary" onclick="this.parentNode.nextElementSibling.classList.toggle('hidden')">Toggle Bio</a>
-<p class="bio hidden">
+<ul>
+<li>
+  <a  href="javascript:void(0);" class="toggler link-secondary" onclick="this.nextElementSibling.classList.toggle('hidden')">Toggle Bio: </a>
+<span class="bio hidden">
     {{ include.content | raw }}
-</p>
+</span>
+</li>
+</ul>
 
 <style>
 .toggler {
-  font-size: smaller;
-  margin-left: 1em;
 }
 .bio {
-  margin-left: 2em;
-  color: grey;
+  margin-left: .5em;
+  color: #666;
 }
 .hidden {
   display: none;
