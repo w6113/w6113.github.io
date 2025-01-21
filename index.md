@@ -108,7 +108,7 @@ Broad questions include
 
 <span class="date">04/08</span> <span class="topic">HAI: Schema and Process Induction</span> - TBA
 
-<span class="date">04/10</span> <span class="topic">Systems: ML for systems configuration</span> - TBA
+<span class="date">04/10</span> <span class="topic">Models: TBA</span> - [Shunyu Yao](https://ysymyth.github.io/), OpenAI
 
 <span class="date">04/15</span> <span class="topic">Systems: Performance Hints</span> - TBA
 
