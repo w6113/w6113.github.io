@@ -53,12 +53,20 @@ Broad questions include
 * Readings
     * [OSWorld](https://arxiv.org/abs/2404.07972)
     * [SWE-agent](https://arxiv.org/abs/2405.15793)
+* Questions
+    * What are some real life applications that can make use of/benefit from these computer agents? 
+    * What are some concerns/limitations?
+
 
 <span class="date">1/28</span>	<span class="topic"><a href="https://drive.google.com/file/d/1TUZf2GV3zPZA8sLKSSpkp2nd5OT8SSpt/view?usp=sharing">Tutorial: Agent Planning</a></span> - [Xiao Yu](https://jasonyux.com/), Columbia
 
 * Readings
     * [AlphaGo](https://www.nature.com/articles/nature24270)
     * [Reflective-MCTS](https://arxiv.org/abs/2410.02052)
+* Questions
+    * What other tasks/domains would benefit from these self-learning/planning approaches? 
+    * What key limitations or errors should you watch for when using these approaches?
+
 
 ### WHERE WE ARE
 
