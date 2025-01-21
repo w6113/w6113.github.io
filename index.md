@@ -2,18 +2,18 @@
 layout: index
 ---
 
-<div class="alert alert-success" role="alert">
+<!--<div class="alert alert-success" role="alert">
   <h4 class="alert-heading">Registering for this course</h4>
   <p>If you are interested in taking this course, please fill out 
   <a href="https://forms.gle/Z9RufMdoA1YSfa5HA" style="color:#045321; text-decoration:underline;"><b>THIS SHORT FORM</b></a>.
   Due to the small class size, we will use the answers to balance student backgrounds and expertise.  To ensure commitment, we are not currently accepting audits.  
   </p>
 </div>
+-->
 
 
 
-
-## Overview
+# Overview
 
 
 LLMs have opened new possibilities of automated agents that plan and complete tasks on the user’s behalf.  Such agents have the potential to usher in a new industrial revolution by automating organizational processes.   However, agents are currently limited to soft-edge tasks that have large tolerances for error, and are too unreliable for hard-edge tasks, like in healthcare or enterprises, where accuracy and reliability are paramount.  In short, what does it take for agents to be used in enterprises?
@@ -31,7 +31,7 @@ Broad questions include
 
 
 
-#### Class Structure
+### Class Structure
 
 * There will be assigned readings for each week
 * Classes will be a mix of discussion about the papers, speculating about new problems, and external speakers
@@ -39,155 +39,106 @@ Broad questions include
 
 
 
-## Recent Announcements
 
 
-## Tentative Schedule
+# Tentative Schedule
 
 
-#### What We Want
+### What We Want
 
-1/21:	Introduction & a quick history of agents	- Eugene & Kostis
+<span class="date">1/21</span>	<span class="topic">Introduction & a quick history of agents</span>	- Eugene & Kostis
 
-1/23:	Tutorial: Agents Overview - [Xiao Yu](https://jasonyux.com/), Columbia {% include toggle.html content="I am a second year Ph.D. student in Computer Science at Columbia University advised by Zhou Yu. Before joining the Ph.D. program, I was an undergrad also at Columbia University, majoring in Computer Science and minoring in Applied Physics. Currently I am interested in: 1) Reinforcement Learning + (V)LM Training, and 2) Planning Algorithms + (V)LM Agents. My recent works include developing search algorithms to improve (V)LM's performance on dialogue tasks such as persuasion and agentic tasks such as using a web browser or a virtual machine; and methods to train (V)LMs without extensive human labeling efforts." %}
+<span class="date">1/23</span>	<span class="topic"><a href="https://drive.google.com/file/d/1308CxPBdqhrurz4zeGN5Uw_Xp6BzQaJ1/view?usp=sharing">Tutorial: Agents Overview</a></span> - [Xiao Yu](https://jasonyux.com/), Columbia {% include toggle.html content="I am a second year Ph.D. student in Computer Science at Columbia University advised by Zhou Yu. Before joining the Ph.D. program, I was an undergrad also at Columbia University, majoring in Computer Science and minoring in Applied Physics. Currently I am interested in: 1) Reinforcement Learning + (V)LM Training, and 2) Planning Algorithms + (V)LM Agents. My recent works include developing search algorithms to improve (V)LM's performance on dialogue tasks such as persuasion and agentic tasks such as using a web browser or a virtual machine; and methods to train (V)LMs without extensive human labeling efforts." %}
 
 * Readings
     * [OSWorld](https://arxiv.org/abs/2404.07972)
     * [SWE-agent](https://arxiv.org/abs/2405.15793)
 
-1/28:	Tutorial: Agent Planning - [Xiao Yu](https://jasonyux.com/), Columbia
+<span class="date">1/28</span>	<span class="topic"><a href="https://drive.google.com/file/d/1TUZf2GV3zPZA8sLKSSpkp2nd5OT8SSpt/view?usp=sharing">Tutorial: Agent Planning</a></span> - [Xiao Yu](https://jasonyux.com/), Columbia
 
 * Readings
     * [AlphaGo](https://www.nature.com/articles/nature24270)
     * [Reflective-MCTS](https://arxiv.org/abs/2410.02052)
 
-#### WHERE WE ARE
+### WHERE WE ARE
 
-1/30: 	Now: SWEBench - [John Yang](https://john-b-yang.github.io/), Stanford
+<span class="date">01/30</span> <span class="topic">Background: SWEBench</span> - [John Yang](https://john-b-yang.github.io/), Stanford
 
-02/04: 	Now: Agents at Google -	[Fatma Ozcan](https://techsysinfra.google/research/srg-staff/fatma-ozcan/), Google Research
+<span class="date">02/04</span> <span class="topic">Background: Agents at Google</span> - [Fatma Ozcan](https://techsysinfra.google/research/srg-staff/fatma-ozcan/), Google Research
 
-02/06: 	Use Case: Bureaucracy	[Jeffrey Schlegelmilch](https://ncdp.columbia.edu/about-us/faculty-and-staff/), [National Center for Disaster Preparedness](https://ncdp.columbia.edu/)
+<span class="date">02/06</span> <span class="topic">Use Case: Bureaucracy</span> - [Jeffrey Schlegelmilch](https://ncdp.columbia.edu/about-us/faculty-and-staff/), [National Center for Disaster Preparedness](https://ncdp.columbia.edu/)
 
-02/13: 	Use Case: Agents in Systems Optimization - [Shreya Shankar](https://www.sh-reya.com/) PhD, UC Berkeley
+<span class="date">02/13</span> <span class="topic">Use Case: Agents in Systems Optimization</span> - [Shreya Shankar](https://www.sh-reya.com/) PhD, UC Berkeley
 
-02/18: 	Now: Agent Frameworks - [Phil Calçado](https://philcalcado.com/), [Outropy](https://outropy.ai/)
+<span class="date">02/18</span> <span class="topic">Background: Agent Frameworks</span> - [Phil Calçado](https://philcalcado.com/), [Outropy](https://outropy.ai/)
 
-02/20: 	Now: Simulation for embodied agents - [Yunzhu](yunzhuli.github.io)
+<span class="date">02/20</span> <span class="topic">Background: Simulation for embodied agents</span> - [Yunzhu Li](https://yunzhuli.github.io), Columbia
 
-02/25: 	Now: Servings - [Kostis Kaffes](https://www.cs.columbia.edu/~kkaffes/index.html)
+<span class="date">02/25</span> <span class="topic">Background: Servings</span> - [Kostis Kaffes](https://www.cs.columbia.edu/~kkaffes/index.html), Columbia
 
-02/27: 	Use Case: TBA
+<span class="date">02/27</span> <span class="topic">Use Case: TBA</span>
 
-#### WHAT WE WANT: RELIABILITY VIA SIMULATION
+### WHAT WE WANT: RELIABILITY VIA SIMULATION
 
- 3/4: Use Case: Financial Products - [Raman Jatkar](https://www.linkedin.com/in/raman-jatkar-7942079), Intellect Design
+<span class="date">03/04</span> <span class="topic">Use Case: Financial Products</span>  - [Raman Jatkar](https://www.linkedin.com/in/raman-jatkar-7942079), Intellect Design
 
- 3/6:	Models: Neurosymbolic training	- [Baishakhi Ray](rayb.info), Columbia
+<span class="date">03/06</span> <span class="topic">Models: Neurosymbolic training</span> - [Baishakhi Ray](https://rayb.info), Columbia
 
-3/11:	HAI: Hand-offs with humans and context	- [Lydia Chilton](https://www.cs.columbia.edu/~chilton/chilton.html), Columbia
+<span class="date">03/11</span> <span class="topic">HAI: Hand-offs with humans and context</span> - [Lydia Chilton](https://www.cs.columbia.edu/~chilton/chilton.html), Columbia
 
-3/13:	Use Case: TBA
+<span class="date">03/13</span> <span class="workshop topic">No Class!  <a href="https://www.eventbrite.com/e/nyc-agents-workshop-agents-for-work-tickets-1207855581559?aff=oddtdtcreator">Attend the Agents for Work workshop on 3/12</a></span>
 
-3/25:	Models: Planning - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
+<span class="date">03/25</span> <span class="topic">Models: Planning</span> - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
 
-#### WHAT WE WANT: SAFEGUARDS AND USABILITY
+### WHAT WE WANT: SAFEGUARDS AND USABILITY
 
-3/27:	Systems: Lineage and Data-flow policies	- [Eugene Wu](https://www.eugenewu.net), Columbia
+<span class="date">03/27</span> <span class="topic">Systems: Lineage and Data-flow policies</span> - [Eugene Wu](https://www.eugenewu.net), Columbia
 
- 4/1:	Use Case: Coding (AutoCodeRover) - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS
+<span class="date">04/01</span> <span class="topic">Use Case: Coding (AutoCodeRover)</span> - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS
 
- 4/3:	HAI: Evaluating agent outcomes - TBA	
+<span class="date">04/03</span> <span class="topic">HAI: Evaluating agent outcomes</span> - TBA
 
- 4/8:	HAI: Schema and Process Induction - TBA
+<span class="date">04/08</span> <span class="topic">HAI: Schema and Process Induction</span> - TBA
 
-4/10:	Systems: ML for systems configuration - TBA
+<span class="date">04/10</span> <span class="topic">Systems: ML for systems configuration</span> - TBA
 
-4/15:	Systems: Performance Hints - TBA
+<span class="date">04/15</span> <span class="topic">Systems: Performance Hints</span> - TBA
 
-4/17:	Models: Long context LLM - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago
+<span class="date">04/17</span> <span class="topic">Models: Long context LLM</span> - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago
 
-4/22:	Systems: Monitoring - TBA
+<span class="date">04/22</span> <span class="topic">Systems: Monitoring</span> - TBA
 
-4/24:	TBA
+<span class="date">04/24</span> <span class="topic">TBA</span>
 
-#### What You Did
+### What You Did
 
-4/29:	Presentations
+<span class="date">04/29</span> <span class="topic">Presentations</span>
 
-5/1:	Presentations
+<span class="date">05/01</span> <span class="topic">Presentations</span>
 
-<!--
+
+
 <style>
-.presenter { }
+h3 {
+  color: #067832;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.date {
+color: gray;
+background-color: #999;
+background-color: #d4f1cc;
+color: black;
+padding: 2px 6px;
+border-radius: 4px;
+margin-right: .5em;
+
+}
+span.topic {
+font-size: 16pt;
+}
+.workshop, .workshop a {
+font-size: 16pt;
+text-transform: uppercase;
+}
 </style>
-
-<table class="table  schedule">
-  <thead>
-  <tr>
-    <th class="date" style="width: 5em; max-width: 15em;"> <p> <span>Date </span> </p> </th>
-    <th style="min-width: 15%;"> <p> <span>Tues </span> </p> </th>
-    <th style="min-width: 15%;"> <p> <span>Thurs </span> </p> </th>
-    <th style="width: 10%"> <p> <span>Notes </span> </p> </th>
-  </tr>
-  </thead>
-{% assign idx = 0 %}
-
-{% for r in site.data.schedule %}
-  {% if r.block %}
-    <tr class="colored" style="background: #eee">
-    <td colspan=4  style="text-align: center; font-size: bigger;" >
-    <b style="font-size: 15pt;">{{r.block}}</b>
-    </td>
-    </tr>
-
-  {% else %}
-      {% assign idx = idx | plus: 1  %}
-
-      <tr class="colored" style="background: {{r.color}}">
-        <td class="date">W{{idx}}: {{r.topic}}</td>
-        <td class="tues">
-          <div class="date">{{r.date1}}</div>
-          {% if r.link1 %}
-            <a href="./papers#{{r.link}}"><b>{{r.slug1}}</b></a>
-          {% else %}
-            <b>{{r.slug1}}</b>
-          {% endif %}
-
-          {% if r.presenter1 %}
-            <br/>
-            <span class='presenter'>Presenter: {{r.presenter1}}</span>
-          {% endif %}
-        </td>
-
-        <td class="thurs">
-          <div class="date">{{r.date2}}</div>
-          {% if r.link2 %}
-            <a href="./papers#{{r.link}}"><b>{{r.slug2}}</b></a>
-          {% else %}
-            <b>{{r.slug2}}</b>
-          {% endif %}
-
-          {% if r.presenter2 %}
-            <br/>
-            <span class='presenter'>Presenter: {{r.presenter2}}</span>
-          {% endif %}
-
-        </td>
-        <td class="notes">
-          {% if r.notes %}
-            {{r.notes|raw}}
-          {% endif %}
-
-          {% if r.misc %}
-          <div> {{r.misc|raw}}</div>
-          {% endif %}
-        </td>
-      </tr>
-  {% endif %}
-{% endfor %}
-
-</table>
--->
-
-
