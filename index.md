@@ -81,7 +81,7 @@ Broad questions include
 
 #### WHAT WE WANT: RELIABILITY VIA SIMULATION
 
- 3/4: TBA		
+ 3/4: Use Case: Financial Products - [Raman Jatkar](https://www.linkedin.com/in/raman-jatkar-7942079), Intellect Design
 
  3/6:	Models: Neurosymbolic training	- [Baishakhi Ray](rayb.info), Columbia
 
