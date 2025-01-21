@@ -12,6 +12,7 @@
 #### Staff
 
 * [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>
+  * OH: Th 11:30-12:30 421 Mudd
 * [Kostis Kaffes](https://www.cs.columbia.edu/~kkaffes/index.html)  <small>Instructor</small>
 
 
