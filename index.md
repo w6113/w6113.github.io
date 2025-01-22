@@ -70,7 +70,15 @@ Broad questions include
 
 ### WHERE WE ARE
 
-<span class="date">01/30</span> <span class="topic">Background: SWEBench</span> - [John Yang](https://john-b-yang.github.io/), Stanford
+<span class="date">01/30</span> <span class="topic">Background: SWEBench</span> - [John Yang](https://john-b-yang.github.io/), Stanford {% include toggle.html content="John Yang is a PhD student at Stanford University advised by Prof. Diyi Yang and Ludwig Schmidt. He formerly conducted research at Princeton University advised Prof. Karthik Narasimhan. John works on evaluations, data, and systems around Language Model (LM) agents for software engineering" %}
+
+* Readings
+  * [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://arxiv.org/abs/2310.06770)
+  * [SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering](https://arxiv.org/abs/2405.15793)
+* Questions
+  * What might the future of evaluations for Language Models and AI Systems look like? Can you think of any real world workflows or pipelines (not necessarily within Software Engineering or Tech) that might be interesting testbeds?
+  * How might AI agents be deployed in a real world? How might the responsibilities of a software developer / manager and the technology market itself evolve in response to AI co-pilots?
+
 
 <span class="date">02/04</span> <span class="topic">Background: Agents at Google</span> - [Fatma Ozcan](https://techsysinfra.google/research/srg-staff/fatma-ozcan/), Google Research
 
