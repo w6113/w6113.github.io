@@ -37,7 +37,9 @@ Broad questions include
 * Classes will be a mix of discussion about the papers, speculating about new problems, and external speakers
 * Due to the speculative nature of the course, students are expected to co-investigate the problems alongside the instructors.   
 
+# Project ideas
 
+[See this google doc](https://docs.google.com/document/d/19H-ZQ2ARwy-gUhOoUb9MqyWBNuVzCRTBlsNxAywlChQ/edit) for some suggestions.  you are welcome to propose your own ideas!
 
 
 
