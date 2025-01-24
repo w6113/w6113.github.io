@@ -112,11 +112,13 @@ Broad questions include
 
 <span class="date">03/27</span> <span class="topic">Systems: Lineage and Data-flow policies</span> - [Eugene Wu](https://www.eugenewu.net), Columbia
 
-<span class="date">04/01</span> <span class="topic">Use Case: Coding (AutoCodeRover)</span> - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS
+<span class="date">04/01</span> <span class="topic">HAI: Process Mining and Agents</span> - [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (the father of process mining), RWTH Aachen University
 
-<span class="date">04/03</span> <span class="topic">HAI: Evaluating agent outcomes</span> - TBA
+<span class="date">04/03</span> <span class="topic">TBA</span> - TBA
 
-<span class="date">04/08</span> <span class="topic">HAI: Schema and Process Induction</span> - TBA
+<span class="date">04/08</span> <span class="topic">HAI: Schema and Process Induction</span> - Lydia Chilton, Columbia
+
+<!--Use Case: Coding (AutoCodeRover)</span> - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS-->
 
 <span class="date">04/10</span> <span class="topic">Models: TBA</span> - [Shunyu Yao](https://ysymyth.github.io/), OpenAI
 
