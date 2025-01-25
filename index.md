@@ -39,7 +39,7 @@ Broad questions include
 
 # Project ideas
 
-[See this google doc](https://docs.google.com/document/d/19H-ZQ2ARwy-gUhOoUb9MqyWBNuVzCRTBlsNxAywlChQ/edit) for some suggestions.  you are welcome to propose your own ideas!
+**For 6113 Students Only**: [Google doc with suggestions](https://docs.google.com/document/d/19H-ZQ2ARwy-gUhOoUb9MqyWBNuVzCRTBlsNxAywlChQ/edit).  You are welcome to add your own ideas!
 
 
 
