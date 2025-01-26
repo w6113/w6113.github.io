@@ -82,7 +82,7 @@ Broad questions include
   * How might AI agents be deployed in a real world? How might the responsibilities of a software developer / manager and the technology market itself evolve in response to AI co-pilots?
 
 
-<span class="date">02/04</span> <span class="topic">Background: Agents at Google</span> - [Fatma Ozcan](https://techsysinfra.google/research/srg-staff/fatma-ozcan/), Google Research
+<span class="date">02/04</span> <span class="topic">TBA</span>
 
 <span class="date">02/06</span> <span class="topic">Use Case: Bureaucracy</span> - [Jeffrey Schlegelmilch](https://ncdp.columbia.edu/about-us/faculty-and-staff/), [National Center for Disaster Preparedness](https://ncdp.columbia.edu/)
 
@@ -114,15 +114,13 @@ Broad questions include
 
 <span class="date">04/01</span> <span class="topic">HAI: Process Mining and Agents</span> - [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (the father of process mining), RWTH Aachen University
 
-<span class="date">04/03</span> <span class="topic">TBA</span> - TBA
+<span class="date">04/03</span> <span class="topic">Use Case: Coding (AutoCodeRover)</span> - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS
 
 <span class="date">04/08</span> <span class="topic">HAI: Schema and Process Induction</span> - Lydia Chilton, Columbia
 
-<!--Use Case: Coding (AutoCodeRover)</span> - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS-->
-
 <span class="date">04/10</span> <span class="topic">Models: TBA</span> - [Shunyu Yao](https://ysymyth.github.io/), OpenAI
 
-<span class="date">04/15</span> <span class="topic">Systems: Performance Hints</span> - TBA
+<span class="date">04/15</span> <span class="topic">Agents at Google</span> - [Fatma Ozcan](https://techsysinfra.google/research/srg-staff/fatma-ozcan/), Google Research
 
 <span class="date">04/17</span> <span class="topic">Models: Long context LLM</span> - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago
 
