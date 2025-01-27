@@ -84,7 +84,14 @@ Broad questions include
 
 <span class="date">02/04</span> <span class="topic">TBA</span>
 
-<span class="date">02/06</span> <span class="topic">Use Case: Bureaucracy</span> - [Jeffrey Schlegelmilch](https://ncdp.columbia.edu/about-us/faculty-and-staff/), [National Center for Disaster Preparedness](https://ncdp.columbia.edu/)
+<span class="date">02/06</span> <span class="topic">Use Case: Navigating US Disaster Recovery Bureaucracy</span> - [Jeffrey Schlegelmilch](https://ncdp.columbia.edu/about-us/faculty-and-staff/), [National Center for Disaster Preparedness](https://ncdp.columbia.edu/) {% include toggle.html content="Jeff Schlegelmilch is the Director of the National Center for Disaster Preparedness at the Columbia Climate School, as well as the Director of Executive Education and Non-Degree Programs for the Columbia Climate School. He is also an Associate Professor for Professional Practice in Climate. His areas of expertise include public health preparedness, community resilience, and the integration of private and public sector capabilities." %}
+
+* Readings
+  * [GAO report on disaster recovery](https://www.gao.gov/products/gao-23-104956) (highlights page is sufficient)
+  * [Fema infographic](./files/images/fema.png)
+* Questions
+  * In the absence of wholesale change, how can technology support improving efficiency in the bureaucracy of disaster recovery?
+
 
 <span class="date">02/13</span> <span class="topic">Use Case: Agents in Systems Optimization</span> - [Shreya Shankar](https://www.sh-reya.com/) PhD, UC Berkeley
 
