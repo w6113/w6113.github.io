@@ -82,7 +82,13 @@ Broad questions include
   * How might AI agents be deployed in a real world? How might the responsibilities of a software developer / manager and the technology market itself evolve in response to AI co-pilots?
 
 
-<span class="date">02/04</span> <span class="topic">TBA</span>
+<span class="date">02/04</span> <span class="topic">Programming Foundation Models</span> [Thomas Joshi](), Columbia {% include toggle.html content="Thomas Joshi is co-author of Stanford DSPy and leads the GenAI Collective, the largest AI community in the US with over 30,000 members across chapters in SF, NYC, Boston, London, Paris, and other cities. DSPy has been used by Nvidia, Microsoft, Meta, NASDAQ, Carlyle, ABN Amro, JetBlue, Cohere, and others. Thomas is passionate about modular approaches to AI system design, enabling engineers to optimize LLM pipelines for performance and cost-efficiency." %}
+
+* Readings
+  * [DSPy](https://arxiv.org/abs/2310.03714)
+* Questions
+  * Modular frameworks like DSPy enhance flexibility and scalability in agentic systems but may introduce inefficiencies due to communication overhead between modules. How do these trade-offs affect the performance of agents in real-world applications? What strategies could be used to minimize these inefficiencies while retaining the advantages of modularity?
+  * DSPy’s modular agents use predefined components tailored to specific tasks, but dynamic environments often demand adaptability. How can agents built with modular frameworks autonomously adapt or reconfigure their modules to address unforeseen challenges? What are the current limitations of modular designs in this context, and how could future advancements improve their adaptability?
 
 <span class="date">02/06</span> <span class="topic">Use Case: Navigating US Disaster Recovery Bureaucracy</span> - [Jeffrey Schlegelmilch](https://ncdp.columbia.edu/about-us/faculty-and-staff/), [National Center for Disaster Preparedness](https://ncdp.columbia.edu/) {% include toggle.html content="Jeff Schlegelmilch is the Director of the National Center for Disaster Preparedness at the Columbia Climate School, as well as the Director of Executive Education and Non-Degree Programs for the Columbia Climate School. He is also an Associate Professor for Professional Practice in Climate. His areas of expertise include public health preparedness, community resilience, and the integration of private and public sector capabilities." %}
 
