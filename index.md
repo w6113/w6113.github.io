@@ -160,10 +160,9 @@ margin-right: .5em;
 
 }
 span.topic {
-font-size: 16pt;
+font-weight: bold;
 }
 .workshop, .workshop a {
-font-size: 16pt;
 text-transform: uppercase;
 }
 </style>
