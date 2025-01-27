@@ -111,7 +111,7 @@ Broad questions include
 
 <span class="date">03/11</span> <span class="topic">HAI: Hand-offs with humans and context</span> - [Lydia Chilton](https://www.cs.columbia.edu/~chilton/chilton.html), Columbia
 
-<span class="date">03/13</span> <span class="workshop topic">No Class!  <a href="https://www.eventbrite.com/e/nyc-agents-workshop-agents-for-work-tickets-1207855581559?aff=oddtdtcreator">Attend the Agents for Work workshop on 3/12</a></span>
+<span class="date">03/13</span> <span class="workshop topic">No Class!  Attend the Agents for Work workshop on 3/12 (link in slack)</span>
 
 <span class="date">03/25</span> <span class="topic">Models: Planning</span> - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
 
