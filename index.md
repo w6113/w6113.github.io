@@ -98,6 +98,7 @@ Broad questions include
 * Questions
   * In the absence of wholesale change, how can technology support improving efficiency in the bureaucracy of disaster recovery?
 
+<span class="date">02/11</span> <span class="topic">No Lecture: Project Proposal Submission</span> - Instructors will be around to discuss and provide feedback
 
 <span class="date">02/13</span> <span class="topic">Use Case: Agents in Systems Optimization</span> - [Shreya Shankar](https://www.sh-reya.com/) PhD, UC Berkeley
 
