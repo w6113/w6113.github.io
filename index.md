@@ -46,9 +46,11 @@ Broad questions include
 # Tentative Schedule
 
 
-### What We Want
 
 <span class="date">1/21</span>	<span class="topic">Introduction & a quick history of agents</span>	- Eugene & Kostis
+
+
+## WHERE WE ARE
 
 <span class="date">1/23</span>	<span class="topic"><a href="https://drive.google.com/file/d/1308CxPBdqhrurz4zeGN5Uw_Xp6BzQaJ1/view?usp=sharing">Tutorial: Agents Overview</a></span> - [Xiao Yu](https://jasonyux.com/), Columbia {% include toggle.html content="I am a second year Ph.D. student in Computer Science at Columbia University advised by Zhou Yu. Before joining the Ph.D. program, I was an undergrad also at Columbia University, majoring in Computer Science and minoring in Applied Physics. Currently I am interested in: 1) Reinforcement Learning + (V)LM Training, and 2) Planning Algorithms + (V)LM Agents. My recent works include developing search algorithms to improve (V)LM's performance on dialogue tasks such as persuasion and agentic tasks such as using a web browser or a virtual machine; and methods to train (V)LMs without extensive human labeling efforts." %}
 
@@ -70,7 +72,6 @@ Broad questions include
     * What key limitations or errors should you watch for when using these approaches?
 
 
-### WHERE WE ARE
 
 <span class="date">01/30</span> <span class="topic">Background: SWEBench</span> - [John Yang](https://john-b-yang.github.io/), Stanford {% include toggle.html content="John Yang is a PhD student at Stanford University advised by Prof. Diyi Yang and Ludwig Schmidt. He formerly conducted research at Princeton University advised Prof. Karthik Narasimhan. John works on evaluations, data, and systems around Language Model (LM) agents for software engineering" %}
 
@@ -110,7 +111,7 @@ Broad questions include
 
 <span class="date">02/27</span> <span class="topic">Use Case: TBA</span>
 
-### WHAT WE WANT: RELIABILITY VIA SIMULATION
+### WHAT WE WANT
 
 <span class="date">03/04</span> <span class="topic">Use Case: Financial Products</span>  - [Raman Jatkar](https://www.linkedin.com/in/raman-jatkar-7942079), Intellect Design
 
@@ -121,8 +122,6 @@ Broad questions include
 <span class="date">03/13</span> <span class="workshop topic">No Class!  Attend the Agents for Work workshop on 3/12 (link in slack)</span>
 
 <span class="date">03/25</span> <span class="topic">Models: Planning</span> - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
-
-### WHAT WE WANT: SAFEGUARDS AND USABILITY
 
 <span class="date">03/27</span> <span class="topic">Systems: Lineage and Data-flow policies</span> - [Eugene Wu](https://www.eugenewu.net), Columbia
 
