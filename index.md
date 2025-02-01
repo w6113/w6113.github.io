@@ -87,7 +87,7 @@ Broad questions include
 
 * Readings
   * [DSPy](https://arxiv.org/abs/2310.03714)
-* Questions
+* Questions (rather than answering these, use the questions as a starting point for discussion on slack)
   * Modular frameworks like DSPy enhance flexibility and scalability in agentic systems but may introduce inefficiencies due to communication overhead between modules. How do these trade-offs affect the performance of agents in real-world applications? What strategies could be used to minimize these inefficiencies while retaining the advantages of modularity?
   * DSPy’s modular agents use predefined components tailored to specific tasks, but dynamic environments often demand adaptability. How can agents built with modular frameworks autonomously adapt or reconfigure their modules to address unforeseen challenges? What are the current limitations of modular designs in this context, and how could future advancements improve their adaptability?
 
@@ -96,7 +96,7 @@ Broad questions include
 * Readings
   * [GAO report on disaster recovery](https://www.gao.gov/products/gao-23-104956) (highlights page is sufficient)
   * [Fema infographic](./files/images/fema.png)
-* Questions
+* Questions (use the question as a starting point for discussion on slack)
   * In the absence of wholesale change, how can technology support improving efficiency in the bureaucracy of disaster recovery?
 
 <span class="date">02/11</span> <span class="topic">No Lecture: Project Proposal Submission</span> - Instructors will be around to discuss and provide feedback
@@ -107,7 +107,7 @@ Broad questions include
   * [DocETL](https://arxiv.org/abs/2410.12189)
   * [Palimpzest](https://arxiv.org/pdf/2405.14696) (cost optimization for LLM-powered data processing)
   * (Optional) [ELEET](https://arxiv.org/abs/2410.22522) (fine-tuning smaller models for optimized query execution)
-* Questions (rather than answering these,use the questions as a starting point for discussion on slack)
+* Questions (rather than answering these, use the questions as a starting point for discussion on slack)
   1. **Systems**: These systems represent different philosophies about determinism in data processing, both in optimization and execution stages: ELEET aims for deterministic extraction with small models, Palimpzest provides deterministic optimization with non-deterministic execution, and DocETL embraces non-determinism in both optimization (given the agents) and execution. How should we think about reliability and correctness guarantees in these different paradigms?
   2. **Systems**: These systems take different approaches to balancing accuracy vs. cost - DocETL optimizes for accuracy with LLM agents, ELEET uses smaller targeted models, and Palimpzest focuses on cost-effective model orchestration. What engineering principles should guide choosing between these approaches for different use cases? What might a unified framework look like?
   3. **HCI**: In document processing systems like DocETL, LLMs can fail in inconsistent ways - e.g., a single LLM may correctly extract 8 names but miss 2 others from the same document, but extract names from other documents perfectly. Unlike traditional data processing errors that follow patterns (e.g., failing on malformed input), LLM failures seem random and hard to systematize. How should interfaces help users validate results and develop trust, when the underlying operations have this fundamentally unpredictable behavior?
