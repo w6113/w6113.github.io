@@ -101,7 +101,17 @@ Broad questions include
 
 <span class="date">02/11</span> <span class="topic">No Lecture: Project Proposal Submission</span> - Instructors will be around to discuss and provide feedback
 
-<span class="date">02/13</span> <span class="topic">Use Case: Agents in Systems Optimization</span> - [Shreya Shankar](https://www.sh-reya.com/) PhD, UC Berkeley
+<span class="date">02/13</span> <span class="topic">Use Case: Agents in Systems Optimization</span> - [Shreya Shankar](https://www.sh-reya.com/) PhD, UC Berkeley {% include toggle.html content="Shreya Shankar is a PhD student in computer science at UC Berkeley, advised by Dr. Aditya Parameswaran. Her research creates practical tools and frameworks that help people build reliable ML systems, with recent work on declarative interfaces and optimization for unstructured data analysis. Her work appears in top data management and HCI venues like SIGMOD, VLDB, CIDR, CSCW and UIST, and she co-organizes the DEEM workshop at SIGMOD. She is supported by the NDSEG Fellowship. Prior to Berkeley, she worked as an ML engineer after completing her B.S. in computer science at Stanford University. In her free time, she enjoys roasting coffee and is actively trying to reduce her Twitter usage.  " %}
+
+* Readings
+  * [DocETL](https://arxiv.org/abs/2410.12189)
+  * [Palimpzest](https://arxiv.org/pdf/2405.14696) (cost optimization for LLM-powered data processing)
+  * (Optional) [ELEET](https://arxiv.org/abs/2410.22522) (fine-tuning smaller models for optimized query execution)
+* Questions (rather than answering these,use the questions as a starting point for discussion on slack)
+  1. **Systems**: These systems represent different philosophies about determinism in data processing, both in optimization and execution stages: ELEET aims for deterministic extraction with small models, Palimpzest provides deterministic optimization with non-deterministic execution, and DocETL embraces non-determinism in both optimization (given the agents) and execution. How should we think about reliability and correctness guarantees in these different paradigms?
+  2. **Systems**: These systems take different approaches to balancing accuracy vs. cost - DocETL optimizes for accuracy with LLM agents, ELEET uses smaller targeted models, and Palimpzest focuses on cost-effective model orchestration. What engineering principles should guide choosing between these approaches for different use cases? What might a unified framework look like?
+  3. **HCI**: In document processing systems like DocETL, LLMs can fail in inconsistent ways - e.g., a single LLM may correctly extract 8 names but miss 2 others from the same document, but extract names from other documents perfectly. Unlike traditional data processing errors that follow patterns (e.g., failing on malformed input), LLM failures seem random and hard to systematize. How should interfaces help users validate results and develop trust, when the underlying operations have this fundamentally unpredictable behavior?
+  
 
 <span class="date">02/18</span> <span class="topic">Background: Agent Frameworks</span> - [Phil Calçado](https://philcalcado.com/), [Outropy](https://outropy.ai/)
 
