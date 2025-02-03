@@ -145,9 +145,9 @@ Broad questions include
 
 <span class="date">04/15</span> <span class="topic">Agents at Google</span> - [Fatma Ozcan](https://techsysinfra.google/research/srg-staff/fatma-ozcan/), Google Research
 
-<span class="date">04/17</span> <span class="topic">Models: Long context LLM</span> - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago
+<span class="date">04/17</span> <span class="topic">Systems: Monitoring</span> - TBA
 
-<span class="date">04/22</span> <span class="topic">Systems: Monitoring</span> - TBA
+<span class="date">04/22</span> <span class="topic">Models: Long context LLM</span> - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago
 
 <span class="date">04/24</span> <span class="topic">TBA</span>
 
