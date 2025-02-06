@@ -14,4 +14,10 @@ Timeline
 * 04/29, 05/1: Presentations
 * 05/8: Paper due 
 
-[Suggested Projects](https://docs.google.com/document/d/19H-ZQ2ARwy-gUhOoUb9MqyWBNuVzCRTBlsNxAywlChQ/edit?usp=sharing)
+
+Useful documents
+
+* [Suggested Projects](https://docs.google.com/document/d/19H-ZQ2ARwy-gUhOoUb9MqyWBNuVzCRTBlsNxAywlChQ/edit?usp=sharing)
+* [Project Proposal Template](https://docs.google.com/document/d/1nr6Lq93G2n5MpGUvRn0zmN9lWKwMgUiXxLej9NuLpbo/edit?tab=t.0#heading=h.6w941y8r1o7a)
+
+
