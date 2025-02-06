@@ -117,9 +117,9 @@ Broad questions include
 
 <span class="date">02/20</span> <span class="topic">Background: Simulation for embodied agents</span> - [Yunzhu Li](https://yunzhuli.github.io), Columbia
 
-<span class="date">02/25</span> <span class="topic">Background: Servings</span> - [Kostis Kaffes](https://www.cs.columbia.edu/~kkaffes/index.html), Columbia
+<span class="date">02/25</span> <span class="topic">Agent-First Systems</span> - Jerry/Nikos/Peter/Eugene/Kostis, Columbia
 
-<span class="date">02/27</span> <span class="topic">Use Case: TBA</span>
+<span class="date">02/27</span> <span class="topic">Systems: Lineage and Data-flow policies</span> - [Eugene Wu](https://www.eugenewu.net), Columbia
 
 ### WHAT WE WANT
 
@@ -133,7 +133,7 @@ Broad questions include
 
 <span class="date">03/25</span> <span class="topic">Models: Planning</span> - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
 
-<span class="date">03/27</span> <span class="topic">Systems: Lineage and Data-flow policies</span> - [Eugene Wu](https://www.eugenewu.net), Columbia
+<span class="date">03/27</span> <span class="topic">Use Case: TBA</span>
 
 <span class="date">04/01</span> <span class="topic">HAI: Process Mining and Agents</span> - [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (the father of process mining), RWTH Aachen University
 
@@ -145,11 +145,11 @@ Broad questions include
 
 <span class="date">04/15</span> <span class="topic">Agents at Google</span> - [Fatma Ozcan](https://techsysinfra.google/research/srg-staff/fatma-ozcan/), Google Research
 
-<span class="date">04/17</span> <span class="topic">Systems: Monitoring</span> - TBA
+<span class="date">04/17</span> <span class="topic">Systems: Security</span> - [Weiliang Zhao](https://www.cs.columbia.edu/~wz2665/weiliang.html), Columbia
 
 <span class="date">04/22</span> <span class="topic">Models: Long context LLM</span> - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago
 
-<span class="date">04/24</span> <span class="topic">TBA</span>
+<span class="date">04/24</span> <span class="topic">Model Context Protocol</span> - David Sorria Parra and Elie Schoppik, Anthropic
 
 ### What You Did
 
