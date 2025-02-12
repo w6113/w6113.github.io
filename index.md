@@ -113,7 +113,18 @@ Broad questions include
   3. **HCI**: In document processing systems like DocETL, LLMs can fail in inconsistent ways - e.g., a single LLM may correctly extract 8 names but miss 2 others from the same document, but extract names from other documents perfectly. Unlike traditional data processing errors that follow patterns (e.g., failing on malformed input), LLM failures seem random and hard to systematize. How should interfaces help users validate results and develop trust, when the underlying operations have this fundamentally unpredictable behavior?
   
 
-<span class="date">02/18</span> <span class="topic">Background: Agent Frameworks</span> - [Phil Calçado](https://philcalcado.com/), [Outropy](https://outropy.ai/)
+<span class="date">02/18</span> <span class="topic">Background: Agent Frameworks</span> - [Phil Calçado](https://philcalcado.com/), [Outropy](https://outropy.ai/) {% include toggle.html content="Phil Calçado is a PhD student at Columbia University advised by [Eugene Wu](https://www.eugenewu.net). His research interests include the design and evaluation of agentic systems, with a focus on the intersection of agents, systems, and society. He is also interested in the social and ethical implications of AI systems, and how to make AI more trustworthy and reliable." %}
+
+* Readings:
+  * https://philcalcado.com/2024/12/14/building-ai-products-part-i.html
+  * https://www.thelis.org/blog/lessons-from-ai
+  * https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/
+
+* Questions (think about and discuss one or more of these topics on slack))
+
+* Looking at past transformative technologies like the early internet or mobile applications, we see initial barriers around cost, latency, and complexity—challenges that parallel those of today’s AI agents. What key engineering and scientific breakthroughs enabled these technologies to become practical at scale, and what lessons can we apply to AI agents today?
+* Modern cloud architectures are built around stateless, horizontally scalable services, yet AI agents rely on maintaining context and memory. How can these opposing principles be reconciled when designing scalable AI systems? What emerging architectural patterns might enable both scalability and statefulness?
+* The shift from monolithic models to Compound AI systems—where multiple specialized AI components work together—suggests that system design and integration are becoming as crucial as model capabilities. How does this change the skills required for AI engineering, and what new challenges arise when optimizing multi-agent AI systems?
 
 <span class="date">02/20</span> <span class="topic">Background: Simulation for embodied agents</span> - [Yunzhu Li](https://yunzhuli.github.io), Columbia
 
@@ -123,7 +134,7 @@ Broad questions include
 
 ### WHAT WE WANT
 
-<span class="date">03/04</span> <span class="topic">Use Case: Financial Products</span>  - [Raman Jatkar](https://www.linkedin.com/in/raman-jatkar-7942079), Intellect Design
+<span class="date">03/04</span> <span class="topic"></span> 
 
 <span class="date">03/06</span> <span class="topic">Models: Neurosymbolic training</span> - [Baishakhi Ray](https://rayb.info), Columbia
 
@@ -133,7 +144,7 @@ Broad questions include
 
 <span class="date">03/25</span> <span class="topic">Models: Planning</span> - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
 
-<span class="date">03/27</span> <span class="topic">Use Case: TBA</span>
+<span class="date">03/27</span> <span class="topic">Use Case: Financial Products</span> - [Raman Jatkar](https://www.linkedin.com/in/raman-jatkar-7942079), Intellect Design
 
 <span class="date">04/01</span> <span class="topic">HAI: Process Mining and Agents</span> - [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (the father of process mining), RWTH Aachen University
 
