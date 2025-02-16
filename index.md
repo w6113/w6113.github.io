@@ -116,21 +116,28 @@ Broad questions include
 <span class="date">02/18</span> <span class="topic">Background: Agent Frameworks</span> - [Phil Calçado](https://philcalcado.com/), [Outropy](https://outropy.ai/) {% include toggle.html content="Phil Calçado is a PhD student at Columbia University advised by [Eugene Wu](https://www.eugenewu.net). His research interests include the design and evaluation of agentic systems, with a focus on the intersection of agents, systems, and society. He is also interested in the social and ethical implications of AI systems, and how to make AI more trustworthy and reliable." %}
 
 * Readings:
-  * https://philcalcado.com/2024/12/14/building-ai-products-part-i.html
-  * https://www.thelis.org/blog/lessons-from-ai
-  * https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/
+  * [Building AI Products](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
+  * [7 Lessons from building a small-scale AI application](https://www.thelis.org/blog/lessons-from-ai)
+  * [Compound AI systems](https://bair.berkeley.edu/blog/2024/02/18/compound-ai-systems/)
 
 * Questions (think about and discuss one or more of these topics on slack))
-
-* Looking at past transformative technologies like the early internet or mobile applications, we see initial barriers around cost, latency, and complexity—challenges that parallel those of today’s AI agents. What key engineering and scientific breakthroughs enabled these technologies to become practical at scale, and what lessons can we apply to AI agents today?
-* Modern cloud architectures are built around stateless, horizontally scalable services, yet AI agents rely on maintaining context and memory. How can these opposing principles be reconciled when designing scalable AI systems? What emerging architectural patterns might enable both scalability and statefulness?
-* The shift from monolithic models to Compound AI systems—where multiple specialized AI components work together—suggests that system design and integration are becoming as crucial as model capabilities. How does this change the skills required for AI engineering, and what new challenges arise when optimizing multi-agent AI systems?
-
+  * Looking at past transformative technologies like the early internet or mobile applications, we see initial barriers around cost, latency, and complexity—challenges that parallel those of today’s AI agents. What key engineering and scientific breakthroughs enabled these technologies to become practical at scale, and what lessons can we apply to AI agents today?
+  * Modern cloud architectures are built around stateless, horizontally scalable services, yet AI agents rely on maintaining context and memory. How can these opposing principles be reconciled when designing scalable AI systems? What emerging architectural patterns might enable both scalability and statefulness?
+  * The shift from monolithic models to Compound AI systems—where multiple specialized AI components work together—suggests that system design and integration are becoming as crucial as model capabilities. How does this change the skills required for AI engineering, and what new challenges arise when optimizing multi-agent AI systems?
+  
 <span class="date">02/20</span> <span class="topic">Background: Foundation Models for Embodied/Physical Agents</span> - [Yunzhu Li](https://yunzhuli.github.io), Columbia {% include toggle.html content="I am an Assistant Professor of Computer Science at Columbia University.  Before joining Columbia, I was an Assistant Professor at UIUC CS. I also spent time as a Postdoc at the Stanford Vision and Learning Lab (SVL), working with Fei-Fei Li and Jiajun Wu. I received my PhD from the Computer Science and Artificial Intelligence Laboratory (CSAIL) at MIT, where I was advised by Antonio Torralba and Russ Tedrake, and I obtained my bachelor's degree from Peking University." %}
 
-> Foundation models, such as GPT-4 Vision, have marked significant achievements in the fields of natural language and vision, demonstrating exceptional abilities to adapt to new tasks and scenarios. However, physical/embodied interaction—such as cooking, cleaning, or caregiving—remains a frontier where foundation models and robotic systems have yet to achieve the desired level of adaptability and generalization.
-> In this talk, I will discuss the opportunities for incorporating foundation models into classic robotic pipelines to endow robots/physical agents with capabilities beyond those achievable with traditional robotic tools. The talk will focus on three key improvements in (1) task specification, (2) low-level, and (3) high-level scene modeling. The central idea behind this research is to translate the commonsense knowledge embedded in foundation models into structural priors that can be integrated into robot learning systems. This approach leverages the strengths of different modules (e.g., VLM for task interpretation and constrained optimization for motion planning), achieving the best of both worlds. I will demonstrate how such integration enables robots to interpret instructions provided in free-form natural language, and how foundation models can be augmented with additional memory mechanisms, such as an action-conditioned scene graph, to handle a wide range of real-world manipulation tasks.
-> Toward the end of the talk, I will discuss the limitations of the current foundation models, challenges that still lie ahead, and potential avenues to address these challenges
+
+<blockquote class="blockquote" p class="ms-5 w-90 text-muted">
+<p>
+Foundation models, such as GPT-4 Vision, have marked significant achievements in the fields of natural language and vision, demonstrating exceptional abilities to adapt to new tasks and scenarios. However, physical/embodied interaction—such as cooking, cleaning, or caregiving—remains a frontier where foundation models and robotic systems have yet to achieve the desired level of adaptability and generalization.</p>
+
+<p>
+In this talk, I will discuss the opportunities for incorporating foundation models into classic robotic pipelines to endow robots/physical agents with capabilities beyond those achievable with traditional robotic tools. The talk will focus on three key improvements in (1) task specification, (2) low-level, and (3) high-level scene modeling. The central idea behind this research is to translate the commonsense knowledge embedded in foundation models into structural priors that can be integrated into robot learning systems. This approach leverages the strengths of different modules (e.g., VLM for task interpretation and constrained optimization for motion planning), achieving the best of both worlds. I will demonstrate how such integration enables robots to interpret instructions provided in free-form natural language, and how foundation models can be augmented with additional memory mechanisms, such as an action-conditioned scene graph, to handle a wide range of real-world manipulation tasks.</p>
+
+<p>
+Toward the end of the talk, I will discuss the limitations of the current foundation models, challenges that still lie ahead, and potential avenues to address these challenges</p>
+</blockquote>
 
 
 <span class="date">02/25</span> <span class="topic">Agent-First Systems</span> - Jerry/Nikos/Peter/Eugene/Kostis, Columbia
