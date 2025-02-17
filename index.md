@@ -139,6 +139,13 @@ In this talk, I will discuss the opportunities for incorporating foundation mode
 Toward the end of the talk, I will discuss the limitations of the current foundation models, challenges that still lie ahead, and potential avenues to address these challenges</p>
 </blockquote>
 
+* Readings
+  * https://voxposer.github.io/
+  * https://rekep-robot.github.io/
+* Questions
+  * You’ve already seen numerous practical applications of AI agents powered by foundation models in virtual environments. What do you see as the key opportunities and challenges in extending these capabilities to physical agents, particularly those that interact with the real world through robotic manipulation?
+  * Additionally, how do the key considerations and assumptions differ between virtual and physical settings?
+
 
 <span class="date">02/25</span> <span class="topic">Agent-First Systems</span> - Jerry/Nikos/Peter/Eugene/Kostis, Columbia
 
