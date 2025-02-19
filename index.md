@@ -169,7 +169,8 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">04/03</span> <span class="topic">Use Case: Coding (AutoCodeRover)</span> - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS
 
-<span class="date">04/08</span> <span class="topic">HAI: Schema and Process Induction</span> - Lydia Chilton, Columbia
+<!-- <span class="date">04/08</span> <span class="topic">HAI: Schema and Process Induction</span> - Lydia Chilton, Columbia -->
+<span class="date">04/08</span> <span class="topic">TBA</span> - Shankar Bhargava, WalmartLabs
 
 <span class="date">04/10</span> <span class="topic">Models: TBA</span> - [Shunyu Yao](https://ysymyth.github.io/), OpenAI
 
