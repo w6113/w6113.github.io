@@ -113,7 +113,7 @@ Broad questions include
   3. **HCI**: In document processing systems like DocETL, LLMs can fail in inconsistent ways - e.g., a single LLM may correctly extract 8 names but miss 2 others from the same document, but extract names from other documents perfectly. Unlike traditional data processing errors that follow patterns (e.g., failing on malformed input), LLM failures seem random and hard to systematize. How should interfaces help users validate results and develop trust, when the underlying operations have this fundamentally unpredictable behavior?
   
 
-<span class="date">02/18</span> <span class="topic">Background: Agent Frameworks</span> - [Phil Calçado](https://philcalcado.com/), [Outropy](https://outropy.ai/) {% include toggle.html content="Phil Calçado is a PhD student at Columbia University advised by [Eugene Wu](https://www.eugenewu.net). His research interests include the design and evaluation of agentic systems, with a focus on the intersection of agents, systems, and society. He is also interested in the social and ethical implications of AI systems, and how to make AI more trustworthy and reliable." %}
+<span class="date">02/18</span> <span class="topic">Background: Agent Frameworks</span> - [Phil Calçado](https://philcalcado.com/), [Outropy](https://outropy.ai/) 
 
 * Readings:
   * [Building AI Products](https://philcalcado.com/2024/12/14/building-ai-products-part-i.html)
