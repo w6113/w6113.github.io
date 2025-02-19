@@ -157,7 +157,9 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">03/06</span> <span class="topic">Models: Neurosymbolic training</span> - [Baishakhi Ray](https://rayb.info), Columbia
 
-<span class="date">03/11</span> <span class="topic">HAI: Hand-offs with humans and context</span> - [Lydia Chilton](https://www.cs.columbia.edu/~chilton/chilton.html), Columbia
+<!--<span class="date">03/11</span> <span class="topic">HAI: Hand-offs with humans and context</span> - [Lydia Chilton](https://www.cs.columbia.edu/~chilton/chilton.html), Columbia-->
+
+<span class="date">03/11</span> <span class="topic">TBA</span> - [Danielle Perszyk](https://www.linkedin.com/in/danielleoscillations/), Amazon
 
 <span class="date">03/13</span> <span class="workshop topic">No Class!  Attend the Agents for Work workshop on 3/12 (link in slack)</span>
 
