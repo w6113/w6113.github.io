@@ -147,7 +147,12 @@ Toward the end of the talk, I will discuss the limitations of the current founda
   * Additionally, how do the key considerations and assumptions differ between virtual and physical settings?
 
 
-<span class="date">02/25</span> <span class="topic">Agent-First Systems</span> - Jerry/Nikos/Peter/Eugene/Kostis, Columbia
+<span class="date">02/25</span> <span class="topic">Agent-Ready Systems</span> - Jerry/Nikos/Peter/Eugene/Kostis, Columbia
+
+* Readings
+  * See class Slack for paper
+* Questions
+  * Based on what we have seen this semester, other systems capabilities may be useful for agent-ready systems to support?
 
 <span class="date">02/27</span> <span class="topic">Systems: Lineage and Data-flow policies</span> - [Eugene Wu](https://www.eugenewu.net), Columbia
 
