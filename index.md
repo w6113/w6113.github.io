@@ -152,6 +152,7 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 * Readings
   * See class Slack for paper
 * Questions
+  * What makes agents different from previous workloads/applications from a systems perspective?
   * Based on what we have seen this semester, other systems capabilities may be useful for agent-ready systems to support?
 
 <span class="date">02/27</span> <span class="topic">Systems: Lineage and Data-flow policies</span> - [Eugene Wu](https://www.eugenewu.net), Columbia
