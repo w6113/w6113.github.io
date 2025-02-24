@@ -50,7 +50,6 @@ Broad questions include
 <span class="date">1/21</span>	<span class="topic">Introduction & a quick history of agents</span>	- Eugene & Kostis
 
 
-## WHERE WE ARE
 
 <span class="date">1/23</span>	<span class="topic"><a href="https://drive.google.com/file/d/1308CxPBdqhrurz4zeGN5Uw_Xp6BzQaJ1/view?usp=sharing">Tutorial: Agents Overview</a></span> - [Xiao Yu](https://jasonyux.com/), Columbia {% include toggle.html content="I am a second year Ph.D. student in Computer Science at Columbia University advised by Zhou Yu. Before joining the Ph.D. program, I was an undergrad also at Columbia University, majoring in Computer Science and minoring in Applied Physics. Currently I am interested in: 1) Reinforcement Learning + (V)LM Training, and 2) Planning Algorithms + (V)LM Agents. My recent works include developing search algorithms to improve (V)LM's performance on dialogue tasks such as persuasion and agentic tasks such as using a web browser or a virtual machine; and methods to train (V)LMs without extensive human labeling efforts." %}
 
@@ -157,9 +156,8 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">02/27</span> <span class="topic">Systems: Lineage and Data-flow policies</span> - [Eugene Wu](https://www.eugenewu.net), Columbia
 
-### WHAT WE WANT
 
-<span class="date">03/04</span> <span class="topic"></span> 
+<span class="date">03/04</span> <span class="topic">No Class.  Attend Columbia AI Day!</span> 
 
 <span class="date">03/06</span> <span class="topic">Models: Neurosymbolic training</span> - [Baishakhi Ray](https://rayb.info), Columbia
 
