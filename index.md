@@ -156,6 +156,12 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">02/27</span> <span class="topic">Systems: Lineage and Data-flow policies</span> - [Eugene Wu](https://www.eugenewu.net), Columbia
 
+* Readings
+  * Easier: [Provenance in data visualizations](https://www.dropbox.com/scl/fi/xivnuyo31tk3110bohmvc/smoke-hilda18.pdf?rlkey=bjtsktnij4bl0i4abwtsg4n4u&e=1&dl=0)
+  * Harder: [Smoke](https://arxiv.org/abs/1801.07237)
+* Questions 
+  * How is provenance useful in the context of agents?
+
 
 <span class="date">03/04</span> <span class="topic">No Class.  Attend Columbia AI Day!</span> 
 
