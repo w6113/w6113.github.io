@@ -166,7 +166,8 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 <span class="date">03/04</span> <span class="topic">Human-Agent Interaction.   Lydia Chilton</span> 
 
 * Readings: 
-  * TBA
+  * [Anthropic: You Don't Need a Framework ](https://www.anthropic.com/research/building-effective-agents)
+  * [Generative agents: Interactive simulacra of human behavior](https://dl.acm.org/doi/abs/10.1145/3586183.3606763)
 * Questions
   * When is human intervention necessary or beneficial in agent-based systems?
 
