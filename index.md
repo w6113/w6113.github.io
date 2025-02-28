@@ -163,7 +163,13 @@ Toward the end of the talk, I will discuss the limitations of the current founda
   * How is provenance useful in the context of agents?
 
 
-<span class="date">03/04</span> <span class="topic">No Class.  Attend Columbia AI Day!</span> 
+<span class="date">03/04</span> <span class="topic">Human-Agent Interaction.   Lydia Chilton</span> 
+
+* Readings: 
+  * TBA
+* Questions
+  * When is human intervention necessary or beneficial in agent-based systems?
+
 
 <span class="date">03/06</span> <span class="topic">Models: Neurosymbolic training</span> - [Baishakhi Ray](https://rayb.info), Columbia
 
