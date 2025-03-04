@@ -193,6 +193,30 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">04/01</span> <span class="topic">HAI: Process Mining and Agents</span> - [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (the father of process mining), RWTH Aachen University
 
+* Readings
+  * [W.M.P. van der Aalst. Foundations of Process Discovery.](https://www.vdaalst.com/publications/p1330.pdf)
+  * [W.M.P. van der Aalst. Object-Centric Process Mining: Unraveling the Fabric of Real Processes.](https://www.vdaalst.com/publications/p1352.pdf)
+* Questions to ponder
+
+```
+Consider the following traces in a simplified case-centric event log (each letter refers to an activity and each row refers to a case):
+
+abcdefgh
+abecfgdh
+abecfdgh
+aebcdfgh
+aebcfgdh
+abcedfgh
+abecdfgh
+aebcfdgh
+abcefgdh
+abcefdgh
+...
+ 
+
+A case could represent the treatment of a patient, the production of a car, or the handling of an invoice. To minimize notation, we use just letters for individual activities. Note that each case starts with activity “a” (e.g., “register patient”) and ends with activity “h” (e.g., “invoice patient”). Assume that all shown traces are frequent (e.g., occur at least 10 times). What process model would you like your discovery technique to discover? Use a Petri net, BPMN model, process tree, or DFG to describe the underlying process.
+```
+
 <span class="date">04/03</span> <span class="topic">Use Case: Coding (AutoCodeRover)</span> - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS
 
 <!-- <span class="date">04/08</span> <span class="topic">HAI: Schema and Process Induction</span> - Lydia Chilton, Columbia -->
