@@ -174,6 +174,13 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">03/06</span> <span class="topic">Models: Neurosymbolic training</span> - [Baishakhi Ray](https://rayb.info), Columbia
 
+* Readings
+  1. [SemCoder](https://arxiv.org/pdf/2406.01006)
+  2. [C2SAFERRUST](https://arxiv.org/pdf/2501.14257)
+* Questions to ponder and discuss **at least the day before the class!!** (e.g., not 10 minutes before class)
+  1. How neuro-symbolic training can help?
+  2. What is the purpose of neurosymbolic reasoning in agentic workflow? 
+
 <!--<span class="date">03/11</span> <span class="topic">HAI: Hand-offs with humans and context</span> - [Lydia Chilton](https://www.cs.columbia.edu/~chilton/chilton.html), Columbia-->
 
 <span class="date">03/11</span> <span class="topic">TBA</span> - [Danielle Perszyk](https://www.linkedin.com/in/danielleoscillations/), Amazon
