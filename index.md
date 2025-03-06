@@ -183,7 +183,13 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <!--<span class="date">03/11</span> <span class="topic">HAI: Hand-offs with humans and context</span> - [Lydia Chilton](https://www.cs.columbia.edu/~chilton/chilton.html), Columbia-->
 
-<span class="date">03/11</span> <span class="topic">TBA</span> - [Danielle Perszyk](https://www.linkedin.com/in/danielleoscillations/), Amazon
+<span class="date">03/11</span> <span class="topic">Human data for building agents that model our minds</span> - [Danielle Perszyk](https://www.linkedin.com/in/danielleoscillations/), Amazon  {% include toggle.html content="Danielle Perszyk is a cognitive scientist at the Amazon AGI SF Lab leading the human data collection efforts for building agents. She received her PhD from Northwestern, where she studied the developmental and evolutionary origins of human's link between language and thought. Previously, she built human data collection programs for UX research and AI model training at Google and Adept. " %}
+
+* Readings
+  * [Testing theory of mind in large language models and humans](https://www.nature.com/articles/s41562-024-01882-z)
+  * [Generative Agent Simulations of 1,000 People](https://arxiv.org/abs/2411.10109)  or [watch the talk](https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21cbb61c-5482-4183-ac75-b2810137d4ad)
+* Question to discuss **at least the day before class!**
+  * What does it mean for an agent to model (understand) human minds?
 
 <span class="date">03/13</span> <span class="workshop topic">No Class!  Attend the Agents for Work workshop on 3/12 (link in slack)</span>
 
