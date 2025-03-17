@@ -193,7 +193,14 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">03/13</span> <span class="workshop topic">No Class!  Attend the Agents for Work workshop on 3/12 (link in slack)</span>
 
-<span class="date">03/25</span> <span class="topic">Models: Planning</span> - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
+<span class="date">03/25</span> <span class="topic">Agent Planning: RL and MCTS</span> - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
+
+* Readings
+  * [Combining Q-Learning and Search with Amortized Value Estimates, ICLR 2020](https://arxiv.org/abs/1912.02807)
+  * [On the role of planning in model-based deep reinforcement learning, ICLR 2021](https://openreview.net/forum?id=IrM64DGB21)
+* Questions to ponder while reading.   Discuss these at least one day BEFORE class!
+  * How can we combine reinforcement learning methods (like Q-learning) with planning and search to achieve strong performance under small search budgets?
+  * What is the role of planning (vs. learning) in performance of agents? What can we learn from the studies of similar approaches for RL systems such as MuZero? Which insights transfer to Agentic systems and which don’t?
 
 <span class="date">03/27</span> <span class="topic">Use Case: Financial Products</span> - [Raman Jatkar](https://www.linkedin.com/in/raman-jatkar-7942079), Intellect Design
 
