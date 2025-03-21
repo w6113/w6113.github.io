@@ -204,6 +204,14 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">03/27</span> <span class="topic">Use Case: Financial Products</span> - [Raman Jatkar](https://www.linkedin.com/in/raman-jatkar-7942079), Intellect Design
 
+* Readings
+  * [Dear IT Departments, Please Stop Trying To Build Your Own RAG](https://pub.towardsai.net/dear-it-departments-please-stop-trying-to-build-your-own-rag-4546b4638273)
+  * [Multi-Agent System Patterns in Financial Services: Architectures for Next-Generation AI Solutions](https://community.aws/content/2uDxjoo105xRO6Q7mfkogmOYTVp/multi-agent-system-patterns-in-financial-services-architectures-for-next-generation-ai-solutions)
+* Questions to ponder while reading.   Discuss these at least one day BEFORE class!
+  * What change management approaches are essential for successful Agent systems adoption in financial institutions?
+  * Identify real-world applications of multi-agent systems in financial services - in banking, insurance, and wealth management.
+  * What key performance indicators should be used to evaluate the effectiveness of agentic systems in enterprise operations?
+
 <span class="date">04/01</span> <span class="topic">HAI: Process Mining and Agents</span> - [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (the father of process mining), RWTH Aachen University
 
 * Readings
