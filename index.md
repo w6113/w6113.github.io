@@ -224,7 +224,15 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 <span class="date">04/03</span> <span class="topic">Use Case: Coding (AutoCodeRover)</span> - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS
 
 <!-- <span class="date">04/08</span> <span class="topic">HAI: Schema and Process Induction</span> - Lydia Chilton, Columbia -->
-<span class="date">04/08</span> <span class="topic">TBA</span> - Shankar Bhargava, WalmartLabs
+<span class="date">04/08</span> <span class="topic"> Opportunities and Challenges in Building Agentic Products for Commerce</span> - [Shankar Bhargava](https://www.linkedin.com/in/shankarbhargava/), WalmartLabs
+
+* Readings
+  * [Musings About the Future of Search: A Return to the Past?](https://arxiv.org/pdf/2412.18956)
+  * [Toward an evaluation science for generative AI systems.](https://arxiv.org/pdf/2503.05336)
+* To discuss at least a day before class
+  * How are agentic systems changing how people search? Has your own usage of Google changed in the past year. How do you think this will change how people shop?
+  * Based on what you have learnt in this course so far, what do you think are the challenges in building reliable agentic products for consumers? What are some good metrics to evaluate a consumer shopping agent or assistant?
+
 
 <span class="date">04/10</span> <span class="topic">Models: TBA</span> - [Shunyu Yao](https://ysymyth.github.io/), OpenAI
 
