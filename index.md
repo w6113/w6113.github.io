@@ -193,9 +193,24 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">03/13</span> <span class="workshop topic">No Class!  Attend the Agents for Work workshop on 3/12 (link in slack)</span>
 
-<span class="date">03/25</span> <span class="topic">Models: Planning</span> - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
+<span class="date">03/25</span> <span class="topic">Agent Planning: RL and MCTS</span> - [Shipra Agrawal](https://www.columbia.edu/~sa3305/), Columbia
+
+* Readings
+  * [Combining Q-Learning and Search with Amortized Value Estimates, ICLR 2020](https://arxiv.org/abs/1912.02807)
+  * [On the role of planning in model-based deep reinforcement learning, ICLR 2021](https://openreview.net/forum?id=IrM64DGB21)
+* Questions to ponder while reading.   Discuss these at least one day BEFORE class!
+  * How can we combine reinforcement learning methods (like Q-learning) with planning and search to achieve strong performance under small search budgets?
+  * What is the role of planning (vs. learning) in performance of agents? What can we learn from the studies of similar approaches for RL systems such as MuZero? Which insights transfer to Agentic systems and which don’t?
 
 <span class="date">03/27</span> <span class="topic">Use Case: Financial Products</span> - [Raman Jatkar](https://www.linkedin.com/in/raman-jatkar-7942079), Intellect Design
+
+* Readings
+  * [Dear IT Departments, Please Stop Trying To Build Your Own RAG](https://pub.towardsai.net/dear-it-departments-please-stop-trying-to-build-your-own-rag-4546b4638273)
+  * [Multi-Agent System Patterns in Financial Services: Architectures for Next-Generation AI Solutions](https://community.aws/content/2uDxjoo105xRO6Q7mfkogmOYTVp/multi-agent-system-patterns-in-financial-services-architectures-for-next-generation-ai-solutions)
+* Questions to ponder while reading.   Discuss these at least one day BEFORE class!
+  * What change management approaches are essential for successful Agent systems adoption in financial institutions?
+  * Identify real-world applications of multi-agent systems in financial services - in banking, insurance, and wealth management.
+  * What key performance indicators should be used to evaluate the effectiveness of agentic systems in enterprise operations?
 
 <span class="date">04/01</span> <span class="topic">HAI: Process Mining and Agents</span> - [Wil van der Aalst](https://en.wikipedia.org/wiki/Wil_van_der_Aalst) (the father of process mining), RWTH Aachen University
 
@@ -223,16 +238,14 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">04/03</span> <span class="topic">Use Case: Coding (AutoCodeRover)</span> - [Yuntong Zhang](https://yuntongzhang.github.io/), NUS
 
-<!-- <span class="date">04/08</span> <span class="topic">HAI: Schema and Process Induction</span> - Lydia Chilton, Columbia -->
-<span class="date">04/08</span> <span class="topic"> Opportunities and Challenges in Building Agentic Products for Commerce</span> - [Shankar Bhargava](https://www.linkedin.com/in/shankarbhargava/), WalmartLabs
+<span class="date">04/08</span> <span class="topic">Opportunities and Challenges in Building Agentic Products for Commerce</span> - [Shankar Bhargava](https://www.linkedin.com/in/shankarbhargava/), WalmartLabs
 
 * Readings
   * [Musings About the Future of Search: A Return to the Past?](https://arxiv.org/pdf/2412.18956)
-  * [Toward an evaluation science for generative AI systems.](https://arxiv.org/pdf/2503.05336)
-* To discuss at least a day before class
+  * [Toward an evaluation science for generative AI systems](https://arxiv.org/pdf/2503.05336)
+* Questions to ponder
   * How are agentic systems changing how people search? Has your own usage of Google changed in the past year. How do you think this will change how people shop?
   * Based on what you have learnt in this course so far, what do you think are the challenges in building reliable agentic products for consumers? What are some good metrics to evaluate a consumer shopping agent or assistant?
-
 
 <span class="date">04/10</span> <span class="topic">Models: TBA</span> - [Shunyu Yao](https://ysymyth.github.io/), OpenAI
 
