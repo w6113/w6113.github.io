@@ -269,7 +269,15 @@ Toward the end of the talk, I will discuss the limitations of the current founda
   * [ChaseSQL](https://arxiv.org/pdf/2410.01943)
   * [Is Long Context All You Need?](https://arxiv.org/abs/2501.12372)
 
-<span class="date">04/17</span> <span class="topic">Systems: Security</span> - [Weiliang Zhao](https://www.cs.columbia.edu/~wz2665/weiliang.html), Columbia
+<span class="date">04/17</span> <span class="topic">Jailbreaking Large Language Models</span> - [Weiliang Zhao](https://www.cs.columbia.edu/~wz2665/weiliang.html), Columbia
+
+* Readings
+  * [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043)
+  * [Diversity Helps Jailbreak Large Language Models](https://drive.google.com/file/d/1qdXsGQcCOAzOU-4wSLWuDVOwMId6_Ejp/view?usp=drive_link)
+* Questions to ponder while reading. Discuss these at least one day BEFORE class!
+  * Can you think of a way to defend against these approaches?
+  * What evaluation criteria should be considered before a model is deployed?
+
 
 <span class="date">04/22</span> <span class="topic">Models: Long context LLM</span> - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago
 
