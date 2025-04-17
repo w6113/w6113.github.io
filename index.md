@@ -255,7 +255,15 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 
 <span class="date">04/22</span> <span class="topic">Models: Long context LLM</span> - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago
 
-<span class="date">04/24</span> <span class="topic">Model Context Protocol</span> - David Sorria Parra and Elie Schoppik, Anthropic
+<span class="date">04/24</span> <span class="topic">Model Context Protocol</span> - Elie Schoppik, Anthropic {% include toggle.html content="Elie Schoppik leads live education at Anthropic as their Head of Technical Training. He has spent over a decade in technical education, working with multiple coding schools and starting one of his own. With a background in consulting, education, and software engineering, Elie brings a practical approach to teaching Software Engineering and AI. He's shared his insights at a variety of technical conferences as well as universities including MIT, Wharton, and UC Berkeley." %}
+
+
+
+* Readings
+  * [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
+  * [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+* Questions to ponder
+  * Why do you think there has been so much adoption of MCP within just a few months?
 
 ### What You Did
 
