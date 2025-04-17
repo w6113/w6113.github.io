@@ -60,4 +60,4 @@ You will revise your draft and submit a conference-style report on your project,
 Because this report is the primary deliverable upon which you will be graded, **do not treat it as an afterthought**. Plan to leave at least a week to do the writing, and make sure your proofread and edit carefully!
 
 
-[Submit here.  Name your file UNI_UNI.pdf](https://www.dropbox.com/request/lsuhj8ScrKfMJ9oWraln) 
+[Submit here.  Name your file UNI_UNI.pdf](#) 
