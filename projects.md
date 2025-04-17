@@ -8,17 +8,14 @@ layout: page
 Timeline
 
 * ~~02/11~~ 02/13: Form a group and submit a proposal ([proposal submission form](https://forms.gle/rgPqEfbo4ixDfZ7G8))
+  * [Suggested Projects](https://docs.google.com/document/d/19H-ZQ2ARwy-gUhOoUb9MqyWBNuVzCRTBlsNxAywlChQ/edit?usp=sharing)
+  * [Project Proposal Template](https://docs.google.com/document/d/1nr6Lq93G2n5MpGUvRn0zmN9lWKwMgUiXxLej9NuLpbo/edit?tab=t.0#heading=h.6w941y8r1o7a)
 * 02/11-02/25: Meet with faculty to discuss proposal
 * ~~03/25~~ 04/01: Midterm review
   * Submit 5 slides ([submission link](https://docs.google.com/forms/d/e/1FAIpQLSdlbHwKCjc9AEJZ3lSdX18QjMTSKVhFB6LWz1YLci0bKa5wvQ/viewform?usp=header))
-* 04/29, 05/1: Presentations
-* 05/8: Paper due 
-
-
-Useful documents
-
-* [Suggested Projects](https://docs.google.com/document/d/19H-ZQ2ARwy-gUhOoUb9MqyWBNuVzCRTBlsNxAywlChQ/edit?usp=sharing)
-* [Project Proposal Template](https://docs.google.com/document/d/1nr6Lq93G2n5MpGUvRn0zmN9lWKwMgUiXxLej9NuLpbo/edit?tab=t.0#heading=h.6w941y8r1o7a)
+* 04/29, 05/1: Presentations [Add to presentation here](https://docs.google.com/presentation/d/1DxOwDimvIqsGucENR6Qa2VCZ617u1REhaHn3lOJZ6Mo/edit?usp=sharing)
+* 05/8: Paper due
+  * [Template for final paper](https://www.overleaf.com/read/rgvzsvdxwgzq#aaed81)
 
 
 
@@ -59,5 +56,5 @@ Your presentation should cover (in content, not necessarily one slide for each p
 You will revise your draft and submit a conference-style report on your project, with **maximum length** of 10 pages. 
 Because this report is the primary deliverable upon which you will be graded, **do not treat it as an afterthought**. Plan to leave at least a week to do the writing, and make sure your proofread and edit carefully!
 
-
-[Submit here.  Name your file UNI_UNI.pdf](#) 
+* [Use this Overleaf template for final paper](https://www.overleaf.com/read/rgvzsvdxwgzq#aaed81)
+* [Submit here.  Name your file UNI_UNI.pdf](#) 
