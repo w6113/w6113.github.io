@@ -37,7 +37,8 @@ Overall logistics
 
 Your presentation should cover (in content, not necessarily one slide for each point)
 
-* ![image](https://github.com/user-attachments/assets/c840e67f-3ccb-4653-97d4-c04a743404ae)
+* <img src="https://github.com/user-attachments/assets/c840e67f-3ccb-4653-97d4-c04a743404ae" width="800">
+
 * Related work and how they are related
 * Simple example to illustrate idea
 * Technical insights/experimental findings so far
