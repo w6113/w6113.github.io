@@ -13,7 +13,9 @@ Timeline
 * 02/11-02/25: Meet with faculty to discuss proposal
 * ~~03/25~~ 04/01: Midterm review
   * Submit 5 slides ([submission link](https://docs.google.com/forms/d/e/1FAIpQLSdlbHwKCjc9AEJZ3lSdX18QjMTSKVhFB6LWz1YLci0bKa5wvQ/viewform?usp=header))
-* 04/29, 05/1: Presentations [Add to presentation here](https://docs.google.com/presentation/d/1DxOwDimvIqsGucENR6Qa2VCZ617u1REhaHn3lOJZ6Mo/edit?usp=sharing)
+* 04/29, 05/1: Presentations 
+  * [Add to presentation here](https://docs.google.com/presentation/d/1DxOwDimvIqsGucENR6Qa2VCZ617u1REhaHn3lOJZ6Mo/edit?usp=sharing) 
+  * Deadline for slide submission: **Apr 26, 11:59PM**
 * 05/8: Paper due
   * [Template for final paper](https://www.overleaf.com/read/rgvzsvdxwgzq#aaed81)
   * [Submission link for final paper](https://forms.gle/EQvuij8iH39bjoFh6)
