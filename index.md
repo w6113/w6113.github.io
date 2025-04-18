@@ -288,8 +288,9 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 * Readings
   * [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
   * [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+  * [Model Context Protocol has prompt injection security problems](https://simonwillison.net/2025/Apr/9/mcp-prompt-injection/)
 * Questions to ponder
-  * Why do you think there has been so much adoption of MCP within just a few months?
+  * Is there really a difference between MCP and A2A and (if so) what do you think it is?
 
 ### What You Did
 
