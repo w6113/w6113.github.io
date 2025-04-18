@@ -16,6 +16,7 @@ Timeline
 * 04/29, 05/1: Presentations [Add to presentation here](https://docs.google.com/presentation/d/1DxOwDimvIqsGucENR6Qa2VCZ617u1REhaHn3lOJZ6Mo/edit?usp=sharing)
 * 05/8: Paper due
   * [Template for final paper](https://www.overleaf.com/read/rgvzsvdxwgzq#aaed81)
+  * [Submission link for final paper](https://forms.gle/EQvuij8iH39bjoFh6)
 
 
 
@@ -48,8 +49,7 @@ Your presentation should cover (in content, not necessarily one slide for each p
 **Submission**
 
 * Add your slides to [this google slides link](https://docs.google.com/presentation/d/1DxOwDimvIqsGucENR6Qa2VCZ617u1REhaHn3lOJZ6Mo/edit?usp=sharing)
-* Deadline for submission: Wednesday Apr 26 11:59PM EST
-
+* Deadline for submission: Wednesday Apr 26, 11:59PM EST
 
 ### Report/Camera Ready
 
@@ -57,4 +57,4 @@ You will revise your draft and submit a conference-style report on your project,
 Because this report is the primary deliverable upon which you will be graded, **do not treat it as an afterthought**. Plan to leave at least a week to do the writing, and make sure your proofread and edit carefully!
 
 * [Use this Overleaf template for final paper](https://www.overleaf.com/read/rgvzsvdxwgzq#aaed81)
-* [Submit here.  Name your file UNI_UNI.pdf](#) 
+* [Submit here. Name your file UNI1_UNI2_UNI3.pdf](https://forms.gle/EQvuij8iH39bjoFh6) 
