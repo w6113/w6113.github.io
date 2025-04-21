@@ -287,8 +287,6 @@ Toward the end of the talk, I will discuss the limitations of the current founda
 * Questions to ponder
   * Should LLMs continuously learn after deployment? If so, what would be a promising way?
  
-One question before class: 
-
 <span class="date">04/24</span> <span class="topic">Model Context Protocol</span> - Elie Schoppik, Anthropic {% include toggle.html content="Elie Schoppik leads live education at Anthropic as their Head of Technical Training. He has spent over a decade in technical education, working with multiple coding schools and starting one of his own. With a background in consulting, education, and software engineering, Elie brings a practical approach to teaching Software Engineering and AI. He's shared his insights at a variety of technical conferences as well as universities including MIT, Wharton, and UC Berkeley." %}
 
 
