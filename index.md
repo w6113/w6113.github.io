@@ -279,7 +279,15 @@ Toward the end of the talk, I will discuss the limitations of the current founda
   * What evaluation criteria should be considered before a model is deployed?
 
 
-<span class="date">04/22</span> <span class="topic">Models: Long context LLM</span> - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago
+<span class="date">04/22</span> <span class="topic">Delivering knowledge to LLM inference engines via LMCache</span> - [Kuntai Du](https://kuntaidu.github.io/aboutme.html), UChicago {% include toggle.html content="Kuntai Du is a 6th year PhD candidate from University of Chicago, advised by Professor Junchen Jiang. His research focuses on distributed tensor transmission for deep learning model serving systems. Beyond his academic work, he open-sources his research through LMCache and collaborates closely with Professor Ion Stoica and the UC Berkeley team to integrate it into the most popular LLM inference engine vLLM." %}
+
+* Readings 
+  * [CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving](https://dl.acm.org/doi/10.1145/3651890.3672274)
+  * [CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion](https://dl.acm.org/doi/10.1145/3689031.3696098)
+* Questions to ponder
+  * Should LLMs continuously learn after deployment? If so, what would be a promising way?
+ 
+One question before class: 
 
 <span class="date">04/24</span> <span class="topic">Model Context Protocol</span> - Elie Schoppik, Anthropic {% include toggle.html content="Elie Schoppik leads live education at Anthropic as their Head of Technical Training. He has spent over a decade in technical education, working with multiple coding schools and starting one of his own. With a background in consulting, education, and software engineering, Elie brings a practical approach to teaching Software Engineering and AI. He's shared his insights at a variety of technical conferences as well as universities including MIT, Wharton, and UC Berkeley." %}
 
